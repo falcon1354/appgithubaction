@@ -1,1 +1,1 @@
-# A Python App
+# This is a Python App Activity.
